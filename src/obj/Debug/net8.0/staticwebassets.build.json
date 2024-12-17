@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "M95cYiDc6j8Qeaf1eZ2hRkL/HP/xwg6wdc/NUvM1Cwg=",
+  "Source": "JwtRoleAuthentication",
+  "BasePath": "_content/JwtRoleAuthentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
